@@ -70,7 +70,3 @@ Include any relevant screenshots here to visually represent your application's i
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-You can customize this README further by adding more sections, such as a "Contributing" section if you want to welcome contributions, or any additional information you find relevant. Make sure to replace "your-username" with your actual GitHub username in the installation instructions.

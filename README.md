@@ -65,7 +65,8 @@ The MP3 Player is a basic application that allows you to play MP3 files using a 
 
 ## Screenshots
 
-Include any relevant screenshots here to visually represent your application's interface.
+![Image1](https://github.com/OkeahDavid/Mp3-Player/assets/82973470/89a194c5-2b2f-41c9-804c-1f94ccc4a7c8)
+
 
 ## License
 
